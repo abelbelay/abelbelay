@@ -8,6 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/abelbelay/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/abelbelay/configure-ad)
+  - [Active Directory: Network File Shares, Permissions & Security Groups](https://github.com/abelbelay/file-Shares)
+  - 
 
 <h2>🤳Connect with me:</h2>
 
